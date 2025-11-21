@@ -1,0 +1,5 @@
+{
+  "name": "Transparent Geo-Connector",
+  "description": "A 3D transparent globe visualization tool that allows users to plot geographic points, calculate dynamic centroids, and visualize network connections across the sphere using Gemini AI for location parsing.",
+  "requestFramePermissions": []
+}
